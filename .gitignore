@@ -1,0 +1,38 @@
+# OS
+.DS_Store
+*.swp
+*.swo
+*.swl
+*.swm
+*.swn
+*.pyc
+
+# Build
+vendor
+build
+dist
+tools-stamp
+buf-stamp
+artifacts
+
+# Logs
+configs/logs.json
+
+# Testing
+coverage.out
+coverage.txt
+*profile.out
+sim_log_file
+*.fail
+
+# IDE
+.idea
+*.iml
+*.ipr
+*.iws
+.dir-locals.el
+.vscode
+
+# private files
+private[.-]*
+private

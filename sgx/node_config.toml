@@ -1,0 +1,4 @@
+[fhevm]
+
+# Add mock functionality using trivial encrypt. DO NOT USE in production.
+mock_ops_flag = true
